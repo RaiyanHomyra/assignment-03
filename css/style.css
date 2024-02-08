@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 50px;
+   background-color: blueviolet; 
+   color: white;
+   text-align: center;
+}
+.banner{
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+
+
+}
+.about_image{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(122, 210, 213);
+    text-align: center;
+    color: aliceblue;
+
+}
+.about_content{
+    width: 50%;
+    height: 400px;
+    background-color: rgb(237, 155, 155);
+    text-align: center;
+    color: white;
+}
+.about{
+    display: flex;
+}
+.service{
+    display: flex;
+}
+.service_one{
+    width: 33.3%;
+    height: 400px;
+    background-color: rgb(53, 68, 95);
+    color: azure;
+    text-align: center;
+
+}
+.service_two{
+    width: 33.3%;
+    height: 400px;
+    background-color: rgb(201, 122, 175);
+    color: azure;
+    text-align: center;
+
+}
+.service_three{
+    width: 33.3%;
+    height: 400px;
+    background-color: rgb(196, 144, 85);
+    color: azure;
+    text-align: center;
+
+}
+.works{
+  display: flex;
+}
+.work_one{
+   width: 27%;
+   height: 350px;
+   color: white;
+   background-color: rgb(50, 3, 25);
+   text-align: center;
+}
+.work_two{
+    width: 27%;
+    height: 350px;
+    color: white;
+    background-color: rgb(129, 139, 141);
+    text-align: center;
+}
+.work_three{
+    width: 27%;
+    height: 350px;
+    color: white;
+    background-color: rgb(14, 54, 14);
+    text-align: center;
+}
+.work_four{
+    width: 27%;
+   height: 350px;
+   color: white;
+   background-color: rgb(162, 31, 14);
+   text-align: center; 
+}
+.footer{
+    background-color: rgb(14, 14, 16);
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+.portfolio{
+    display: flex;
+}
+.left_side{
+    width: 50%;
+    height: 400px;
+    background-color: blanchedalmond;
+
+}
+.right_side{
+    width: 50%;
+    height: 400px;
+    background-color: goldenrod;
+}
+.top{
+  height: 50%;
+  background-color: rgb(46, 227, 227);
+}
+.bottom{
+    height: 50%;
+    background-color: rgb(131, 103, 157);
+}
+
+.complex{
+    height: 600px;
+    display: flex;
+}
+.left_part{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(192, 173, 173);
+    text-align: center;
+    color: white;
+}
+.center{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(125, 131, 156);
+  
+}
+.top_part{
+    height: 33.3%;
+    background-color: rgb(98, 158, 138);
+    text-align: center;
+    color: white;
+}
+.middle_part{
+    height: 33.3%;
+    background-color: rgb(113, 105, 94);
+    text-align: center;
+    color: white;
+}
+.bottom_part{
+    height: 33.3%;
+    background-color: rgb(67, 41, 5);
+    text-align: center;
+    color: white;
+}
+.right_part{
+    width: 25%;
+    height: 100%;
+    background-color: rgb(137, 99, 71);
+    text-align: center;
+    color: white;
+}
+
+
